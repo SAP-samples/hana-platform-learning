@@ -1,4 +1,4 @@
-# SAP-samples/repository-template
+# SAP-samples/hana-platform-learning-materials
 This default template for SAP Samples repositories includes files for README, LICENSE, and .reuse/dep5. All repositories on github.com/SAP-samples will be created based on this template.
 
 # Containing Files
@@ -20,14 +20,14 @@ Please edit this file as it is the primary description file for your project. Yo
 -->
 
 ## Description
-<!-- Please include SEO-friendly description -->
+In this repository, you can find sample code and sample data for SAP HANA Platform learning content, like Learning Tracks, Tutorials, Missions and Workshops. Each folder contains the accompanying material to a specific piece of learning content. Please follow the instructions in the learning material referenced in each folder.
 
 ## Requirements
 
 ## Download and Installation
 
 ## Known Issues
-<!-- You may simply state "No known issues. -->
+n/a
 
 ## How to obtain support
 [Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
