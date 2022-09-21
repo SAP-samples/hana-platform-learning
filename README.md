@@ -7,12 +7,6 @@
 ## Description
 In this repository, you can find sample code and sample data for SAP HANA Platform learning content, like Learning Tracks, Tutorials, Missions and Workshops. Each folder contains the accompanying material to a specific piece of learning content. Please follow the instructions in the learning material referenced in each folder.
 
-## Requirements
-n/a
-
-## Download and Installation
-n/a
-
 ## Known Issues
 n/a
 
