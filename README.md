@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/hana-platform-learning)](https://api.reuse.software/info/github.com/SAP-samples/hana-platform-learning)
+
 # SAP HANA Platform Learning Repository
 
 <!--- Register repository https://api.reuse.software/register, then add REUSE badge:
